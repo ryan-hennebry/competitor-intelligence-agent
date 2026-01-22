@@ -8,12 +8,14 @@ Competitor intelligence that runs while you sleep. Configure once, receive weekl
 
 ## Get Started
 
-**You'll need:** A Mac or Windows computer, ~15 minutes
+**Time:** ~15 minutes
 
 **Step 1: Install the tools** (skip what you already have)
 
 - Git — [git-scm.com](https://git-scm.com)
-- Claude Code — Mac: `curl -fsSL https://claude.ai/install.sh | bash` / Windows: `irm https://claude.ai/install.ps1 | iex`
+- Claude Code:
+  - Mac: `curl -fsSL https://claude.ai/install.sh | bash`
+  - Windows: `irm https://claude.ai/install.ps1 | iex`
 
 **Step 2: Run the agent**
 
@@ -53,19 +55,3 @@ Or just talk to it:
 
 For automatic weekly briefings, say "Set up scheduled briefings" — the agent walks you through delivery options (email, Slack, or files).
 
----
-
-## Quick Reference
-
-| You say... | What happens |
-|------------|--------------|
-| "Generate briefing" | Full competitive analysis |
-| "Add [company]" | Researches and adds them |
-| "What changed?" | Summary of recent shifts |
-| "Set up weekly delivery" | Configures automatic briefings |
-
-Or just chat: "I'm worried about Competitor X"
-
----
-
-*Track competitors. Think about strategy.*
